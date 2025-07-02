@@ -52,7 +52,7 @@ Siga os passos abaixo para executar o back-end em sua máquina.
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd TaskManager.API
+    cd todolist-csharp-api
     ```
 
 3.  **Execute a aplicação:**
