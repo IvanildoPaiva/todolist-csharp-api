@@ -47,7 +47,7 @@ Siga os passos abaixo para executar o back-end em sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+    git clone [https://github.com/IvanildoPaiva/todolist-csharp-api.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
