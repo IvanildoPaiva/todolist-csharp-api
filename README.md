@@ -4,6 +4,8 @@
 ![C#](https://img.shields.io/badge/C%23-12.0-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+![Documentação da API com Swagger](https://i.imgur.com/hKKutwu.png)
+
 ## 📝 Descrição
 
 Esta é a API RESTful construída em C# com ASP.NET Core para servir como back-end para a aplicação [To-Do List Full-Stack](https://github.com/IvanildoPaiva/todolist-csharp-api.git). A API é responsável por todas as operações de **CRUD (Criar, Ler, Atualizar, Deletar)** das tarefas.
